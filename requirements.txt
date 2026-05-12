@@ -1,0 +1,6 @@
+# DevUtils-CLI
+# Zero-dependency Python CLI toolbox for developers
+# All tools use only Python standard library
+
+# No external dependencies required!
+# Python 3.7+ recommended
